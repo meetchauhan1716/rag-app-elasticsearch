@@ -1,0 +1,4 @@
+eland 
+elasticsearch
+gradio 
+sentence_transformers
